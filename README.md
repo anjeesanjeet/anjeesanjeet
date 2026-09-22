@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a seasoned data scientist and AI engineer with over five years of experience driving innovation across the data industry. My expertise spans machine learning, NLP, and computer vision, and I’m currently immersed in cutting-edge work around generative AI while actively exploring the emerging frontier of agentic AI.
+I’m a seasoned data scientist and AI engineer with over six years of experience driving innovation across the data industry. My expertise spans machine learning, NLP, and computer vision, and I’m currently immersed in cutting-edge work around generative AI while actively exploring the emerging frontier of agentic AI.
 
 
 ## 🌐 Socials:
